@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "ascii-table": "^0.0.9",
+    "create-html": "^4.1.0",
+    "discord-api-types": "^0.24.0",
+    "discord-fetch-all": "^3.0.2",
+    "discord.js": "^13.3.1",
+    "discord.js-commando": "^0.12.3",
+    "discordjs-logger": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "http-errors": "^1.8.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongodb": "^3.6.10",
+    "mongoose": "^5.13.13",
+    "path": "^0.12.7",
+    "pterodactyl.js": "^2.1.1",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  },
+  "name": "veracitydiscord",
+  "description": "A Fun and moderation bot made using discord.js, Made by Razorr222#0729 (860013795191947300)",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeracityJS/VeracityDiscord.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeracityJS/VeracityDiscord.js/issues"
+  },
+  "homepage": "https://github.com/VeracityJS/VeracityDiscord.js#readme"
+}
