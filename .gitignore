@@ -1,0 +1,4 @@
+data/purges/
+node_modules/
+data/logs/
+.env
