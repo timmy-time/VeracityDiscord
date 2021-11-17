@@ -34,4 +34,4 @@
 <h1 align='center'> 💨 Run the projects  </h1>
  
 ### START THE PROJECT IF U LIKE :)
-### Copyright©️ 2021 VeracityDiscordJS
+### Copyright©️ 2021 VeracityDiscord
