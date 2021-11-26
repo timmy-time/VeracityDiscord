@@ -19,10 +19,6 @@ const fetchPrefix = async function(guildId) {
     let prefix = await Guild.findOne({ guildID: guildId }, 'prefix').exec();
     return prefix;
 }
-const fetchPanel = async function(guildId) {
-    let panel = await Guild.findOne({ guildID: guildId }, 'panelURL').exec();
-    return panel;
-}
 // Fetch all guild data from mongo db
 const fetchAllGuildData = async function(guildId) {
     let guildData = await Guild.findOne({ guildID: guildId }).exec();
