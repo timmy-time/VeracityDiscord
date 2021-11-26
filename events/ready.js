@@ -8,7 +8,6 @@ const { prefix, activityMessage, activity, botversion, dburl } = require('../dat
 require('dotenv').config();
 
 /**
- * 
  * @param {Client} client 
  */
 

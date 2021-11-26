@@ -24,7 +24,6 @@ const client = new Client({
 //> Handlers
 require("./handlers/client")(client);
 require("./handlers/commands")(client);
-require("./handlers/slash_commands")(client);
 require("./handlers/events")(client);
 
 client.db = require("./modules/Database/mongoose.js");

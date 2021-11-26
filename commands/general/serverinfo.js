@@ -3,6 +3,7 @@ const request = require("requests");
 
 //> Config
 const { colour, footer, botName } = require('../../data/config.js');
+
 module.exports = {
    name: "serverinfo",
    desc: "Displays sever information.",
@@ -12,7 +13,6 @@ module.exports = {
       user: [Permissions.FLAGS.SEND_MESSAGES]
    },
    aliases: [],
-
    /**
     * 
     * @param {Client} client 

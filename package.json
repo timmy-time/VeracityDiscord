@@ -11,6 +11,7 @@
     "discordjs-logger": "^2.0.0",
     "dotenv": "^10.0.0",
     "http-errors": "^1.8.0",
+    "jsdom": "^18.1.0",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "mongodb": "^3.6.10",
